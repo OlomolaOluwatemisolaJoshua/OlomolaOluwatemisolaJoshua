@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejoker301" alt="thejoker301" /></a> </p>
 
-- 🔭 I’m currently learning on **HTML, CSS, JavaScript, Python**
+- 🔭 I’m currently learning **HTML, CSS, JavaScript, Python**
 
 - 👯 I’m looking to collaborate on **HTML Projects**
 
